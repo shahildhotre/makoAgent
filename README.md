@@ -22,5 +22,6 @@ Demo link: https://www.loom.com/share/3df4bb0f16ba42808216f7db7cb4052b?sid=dbe27
 
 Work in progress:
  - Reoptimize Button Support
+      - For now we can use Analyze and Optimize button to reoptimize IR or even if generated IR is not parsable
  - Fine Tuned LLM on LLVM IR Optimization
  - File Upload Support
